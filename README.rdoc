@@ -1,0 +1,3 @@
+== Project Euler solutions ( http://projecteuler.net )
+
+Some code that solve some Project Euler problems. I use this to learn new languages principally. 
